@@ -161,20 +161,17 @@ function generarFirmaHTML(data: SignatureData): string {
         <td style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;" colspan="3">
           <p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-align:center;padding-bottom:5px;">
             <a rel="noopener noreferrer" href="https://distripen.com/blog/" target="_blank">
-              <img src="https://distripen.com/images/Banner-Correo-blog.png" alt="Banner Blog" width="700" style="width:100%;max-width:700px;height:auto;display:block;">
+              <img src="https://distripen.com/images/Banner-Correo-blog.png" alt="Banner Blog" width="700" style="width:700px;max-width:100%;height:auto;display:block;margin:0 auto;border:0;">
             </a>
           </p>
           <p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;text-align:center;">
             <a rel="noopener noreferrer" href="https://distripen.com/" target="_blank">
-              <img src="http://distripen.com/images/base-firma_banner.gif" alt="Banner Distripen" width="700" style="width:100%;max-width:700px;height:auto;display:block;">
+              <img src="http://distripen.com/images/base-firma_banner.gif" alt="Banner Distripen" width="700" style="width:700px;max-width:100%;height:auto;display:block;margin:0 auto;border:0;">
             </a>
           </p>
           <!-- AVISO LEGAL -->
           <p style="margin-top:15px;margin-right:0;margin-bottom:0;margin-left:0;text-align:justify;">
-  Si desea diligenciar la encuesta de calidad, por favor ingrese 
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeNvfBzRDKwUUuG8LSlFoF6YeNLKvHOywDGpjSJ2uvO107gZg/viewform" target="_blank">
-    aquí
-  </a>.
+  Si desea diligenciar la encuesta de calidad, por favor ingrese <a href="https://docs.google.com/forms/d/e/1FAIpQLSeNvfBzRDKwUUuG8LSlFoF6YeNLKvHOywDGpjSJ2uvO107gZg/viewform" target="_blank">aquí</a>.
 </p>
           <p style="font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#555555;line-height:1.4;margin-top:15px;margin-right:0;margin-bottom:0;margin-left:0;text-align:justify;">
             AVISO LEGAL: La información contenida en este mensaje es confidencial y para uso exclusivo de la persona u organización a la cual está dirigida. Si no es el receptor autorizado, cualquier retención, difusión, distribución o copia de este mensaje es prohibida y sancionada por la ley. Si por error recibe este mensaje, por favor reenvíelo al remitente y borre el mensaje recibido inmediatamente. Los archivos anexos han sido escaneados y se cree que están libres de virus. Sin embargo, es responsabilidad del receptor asegurarse de ello. DISTRIPEN no se hace responsable por pérdidas o daños causados por su uso. Si desea diligenciar una No Conformidad, por favor ingrese <a rel="noopener noreferrer" style="color:#555555;" href="https://www.appsheet.com/newshortcut/d71ac75e-6f49-4870-b09d-e67dad77a0ba" target="_blank">aquí</a>.
